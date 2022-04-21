@@ -1,0 +1,7 @@
+spring:
+  redis:
+    database: 3
+    password: wasd123..wasd
+    sentinel:
+      master: mymaster
+      nodes: 175.24.118.135:26379
