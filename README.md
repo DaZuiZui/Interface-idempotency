@@ -1,4 +1,4 @@
-# Interface idempotency solution
+# Interface non-idempotency problem solution
 
 ## 1. What is idempotency
 
